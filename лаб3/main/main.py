@@ -7,7 +7,7 @@ def main():
     layout = [
         [sg.Text("Початковий список чисел:")],
         [sg.Output(size=(30, 10), key='-OUTPUT-')],
-        [sg.Button("Перемішати")],
+        [sg.Button("Перемішати"), sg.ColorChooserButton("Змінити колір")],
         [sg.Button("Вийти")]
     ]
 
@@ -20,6 +20,9 @@ def main():
             break
         elif event == "Перемішати":
             my_module.shuffle_and_display(window)
+        elif event == "Змінити колір":
+            color = sg.popup_get_color()
+            window['-OUTPUT-'].update("Ви вибрали колір: {}".format(color))
 
     window.close()
 
