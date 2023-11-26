@@ -1,0 +1,576 @@
+<mxfile host="app.diagrams.net" modified="2023-11-13T21:19:45.992Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="qIpHiPEgGsKDHUSqNl_-" version="22.1.0" type="device" pages="3">
+  <diagram name="Page-1" id="DKxOJ7udbAyNzxKdBjDY">
+    <mxGraphModel dx="1290" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="AZqKM8l5FtBU9OiTCvhw-11" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="110" y="1220" width="700" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="JQDHx19GD2g5ZRoTBUz7-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="90" y="10" width="610" height="490" as="geometry" />
+        </mxCell>
+        <mxCell id="JQDHx19GD2g5ZRoTBUz7-1" value="&lt;b&gt;Композиція&lt;/b&gt; (музикальний твір)&lt;br&gt;&lt;br&gt;- текст&lt;br&gt;-жанр&lt;br&gt;-&amp;nbsp; мелодія (ідентифікація комопзиції)&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="110" y="60" width="140" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="JQDHx19GD2g5ZRoTBUz7-2" value="Користувач" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="290" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sD-jg3opX6A5uXCEboCT-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.953;entryY=0.019;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="JQDHx19GD2g5ZRoTBUz7-3" target="JQDHx19GD2g5ZRoTBUz7-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JQDHx19GD2g5ZRoTBUz7-3" value="Автори композицій" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="290" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sD-jg3opX6A5uXCEboCT-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="JQDHx19GD2g5ZRoTBUz7-4" target="JQDHx19GD2g5ZRoTBUz7-14" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="350" y="308" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JQDHx19GD2g5ZRoTBUz7-4" value="Правовласники" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="290" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JQDHx19GD2g5ZRoTBUz7-6" value="Стрімінговий сервіс - Music University musicunivercity.com" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="280" y="20" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JQDHx19GD2g5ZRoTBUz7-7" value="Subscription (pay per month)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="460" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JQDHx19GD2g5ZRoTBUz7-12" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="450" y="130" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="JQDHx19GD2g5ZRoTBUz7-8" value="Сharts" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="460" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JQDHx19GD2g5ZRoTBUz7-9" value="Органічні" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="460" y="200" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JQDHx19GD2g5ZRoTBUz7-10" value="Реклама" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="530" y="200" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JQDHx19GD2g5ZRoTBUz7-11" value="Playlist" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="465" y="290" width="125" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sD-jg3opX6A5uXCEboCT-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="JQDHx19GD2g5ZRoTBUz7-14" target="JQDHx19GD2g5ZRoTBUz7-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="50" y="275" />
+              <mxPoint x="50" y="125" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JQDHx19GD2g5ZRoTBUz7-14" value="&lt;b&gt;Альбом&lt;/b&gt;&lt;br&gt;- назва&lt;br&gt;- автор&lt;br&gt;- дата випуску (публікації)&lt;br&gt;складається з композицій" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="110" y="210" width="170" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="JQDHx19GD2g5ZRoTBUz7-15" value="Система пошуку&lt;br&gt;- пошук через текстове поле&lt;br&gt;- пошук за допомогою тегів&lt;br&gt;- сортуавння (за датою)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="360" width="180" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="JQDHx19GD2g5ZRoTBUz7-16" value="Категорії" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="110" y="360" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AO6Sv1j_gnWAwzOwK8p--1" value="&lt;b&gt;Композиція&lt;/b&gt; (музикальний твір)&lt;br&gt;&lt;br&gt;&lt;b&gt;Метадані&lt;/b&gt;:&lt;br&gt;- id&lt;br&gt;- назва&lt;br&gt;- текст&lt;br&gt;-жанр&lt;br&gt;-&amp;nbsp; мелодія (ідентифікація комопзиції)&lt;br&gt;- тривалість&lt;br&gt;- зображення&lt;br&gt;- дата завантаження&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;- дата створення&lt;br&gt;&lt;br&gt;&lt;b&gt;Статистика&lt;/b&gt;:&lt;br&gt;- рейтинг (як рахувати?)&lt;br&gt;- кількість прослуховувань&lt;br&gt;&lt;br&gt;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="540" width="240" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="AO6Sv1j_gnWAwzOwK8p--2" value="&lt;b&gt;Альбом&lt;/b&gt;&lt;br&gt;- назва&lt;br&gt;- автор (и)&lt;br&gt;- дата випуску (публікації)&lt;br&gt;складається з композицій&lt;br&gt;- зображення&lt;br&gt;- id" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="490" y="540" width="170" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="AO6Sv1j_gnWAwzOwK8p--3" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="AO6Sv1j_gnWAwzOwK8p--1" target="AO6Sv1j_gnWAwzOwK8p--1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="800" as="sourcePoint" />
+            <mxPoint x="210" y="750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AO6Sv1j_gnWAwzOwK8p--4" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="AO6Sv1j_gnWAwzOwK8p--1" target="AO6Sv1j_gnWAwzOwK8p--2" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="650" as="sourcePoint" />
+            <mxPoint x="430" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AO6Sv1j_gnWAwzOwK8p--10" value="*-*" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="390" y="630" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AO6Sv1j_gnWAwzOwK8p--11" value="ідентифікація альбому: назва+автори" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="700" y="570" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sqbAaCWRH356weBWp3Cs-1" value="Користувач&lt;br&gt;- name&lt;br&gt;- id&lt;br&gt;- email (unique)&amp;nbsp;&lt;br&gt;- avatar&lt;br&gt;- дата реєстрації&lt;br&gt;- тип корситовуча (користувач, автор композиції)&lt;br&gt;- країна&lt;br&gt;- subscription" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="820" width="250" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="sqbAaCWRH356weBWp3Cs-2" value="Правовласники&lt;br&gt;- id&lt;br&gt;- назва&lt;br&gt;- бізнес ідентифікатор&lt;br&gt;- країна реєстрації&lt;br&gt;- юридичний статус" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="820" width="260" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="sqbAaCWRH356weBWp3Cs-3" value="Співробітники&lt;br&gt;- id&lt;br&gt;- email (корпоративним)&lt;br&gt;- ФІО&lt;br&gt;- посада" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="570" y="1000" width="130" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="sqbAaCWRH356weBWp3Cs-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.727;exitY=0.996;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.454;entryY=0.014;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="sqbAaCWRH356weBWp3Cs-2" target="sqbAaCWRH356weBWp3Cs-3" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="1100" as="sourcePoint" />
+            <mxPoint x="520" y="1050" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FZMDWiZeTkVvNe8L0B8E-1" value="Автори композицій&lt;br&gt;- id&lt;br&gt;- власні композиції&lt;br&gt;- правовласник(label)&lt;br&gt;- назва&lt;br&gt;-&amp;nbsp;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="430" y="1000" width="130" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="FZMDWiZeTkVvNe8L0B8E-2" value="верифікації авторів (наприклад, за папортниим даними)" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
+          <mxGeometry x="435" y="1100" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FZMDWiZeTkVvNe8L0B8E-3" value="Категорії&lt;br&gt;- id&lt;br&gt;- назва&lt;br&gt;{композиції, вага відносно категорії}" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="130" y="1010" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AZqKM8l5FtBU9OiTCvhw-1" value="&lt;b&gt;Контейнери для композицій&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="370" y="1230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AZqKM8l5FtBU9OiTCvhw-2" value="&lt;b&gt;Playlists&lt;/b&gt;&lt;br&gt;- id&lt;br&gt;- назва&lt;br&gt;- зображення&lt;br&gt;- {композиції}&lt;br&gt;- користувач (власник)&lt;br&gt;- статус (public/private)&lt;br&gt;- {користувачі}&lt;br&gt;- оцінка" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="150" y="1300" width="140" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="AZqKM8l5FtBU9OiTCvhw-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="580" y="1300" width="160" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="AZqKM8l5FtBU9OiTCvhw-4" value="Сharts" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="595" y="1300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AZqKM8l5FtBU9OiTCvhw-5" value="Органічні" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="590" y="1370" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AZqKM8l5FtBU9OiTCvhw-6" value="Реклама" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="660" y="1370" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AZqKM8l5FtBU9OiTCvhw-7" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="AZqKM8l5FtBU9OiTCvhw-3" target="AZqKM8l5FtBU9OiTCvhw-3" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="1360" as="sourcePoint" />
+            <mxPoint x="440" y="1310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AZqKM8l5FtBU9OiTCvhw-8" value="- id&lt;br&gt;- &lt;b&gt;{композиції: дата попадання в чарт, місце в чарті, рекламна чи ні}&lt;/b&gt;&lt;br&gt;- назва&lt;br&gt;- статистика прослуховувань&lt;br&gt;- дата оновлення" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="615" y="1560" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="AZqKM8l5FtBU9OiTCvhw-10" value="&lt;b&gt;Subscription&lt;/b&gt; (pay per month)&lt;br&gt;- id&lt;br&gt;- термін&lt;br&gt;- вартість" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="1720" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="AZqKM8l5FtBU9OiTCvhw-12" value="&lt;b&gt;Система пошуку&lt;br&gt;&lt;/b&gt;- пошук через текстове поле&lt;br&gt;- пошук за допомогою тегів&lt;br&gt;- прослухати подібне&lt;br&gt;- сортуавння (за датою)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="1830" width="180" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="AZqKM8l5FtBU9OiTCvhw-13" value="Система рекомендацій" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="475" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AZqKM8l5FtBU9OiTCvhw-14" value="Пошук через текстове поле - інтеграція системи пошуку з рейтингом, пошук відбувається за назвою, текстом композиції, за назвою авторів та тегів(!)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="130" y="1940" width="210" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="sD-jg3opX6A5uXCEboCT-1" value="Система рекомендацій&lt;br&gt;- історія пошуків користувача&lt;br&gt;- рекомендації за жанром та автором&lt;br&gt;- рекомендації за тим, зо слухають інші користувачі" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="570" y="1940" width="190" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="sD-jg3opX6A5uXCEboCT-2" value="індексації" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
+          <mxGeometry x="210" y="1870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sD-jg3opX6A5uXCEboCT-3" value="оновлення charts" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
+          <mxGeometry x="450" y="1420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sD-jg3opX6A5uXCEboCT-4" value="валідація та оплата підписок" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
+          <mxGeometry x="550" y="1750" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="QC4l7OPVdEK4gYyauk0h" name="Page-2">
+    <mxGraphModel dx="1050" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="erVF1nvhVaTUWEEvpSth-1" value="&lt;b&gt;Композиція&lt;/b&gt; (музикальний твір)&lt;br&gt;&lt;br&gt;- текст&lt;br&gt;-жанр&lt;br&gt;-&amp;nbsp; мелодія (ідентифікація комопзиції)&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="110" y="60" width="150" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="01s96shbpum8sKjC3xUW-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="01s96shbpum8sKjC3xUW-1" target="erVF1nvhVaTUWEEvpSth-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="01s96shbpum8sKjC3xUW-1" value="&lt;b&gt;Альбом&lt;/b&gt;&lt;br&gt;- назва&lt;br&gt;- автор&lt;br&gt;- дата випуску (публікації)&lt;br&gt;складається з композицій" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="100" y="280" width="170" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="I3lpoa23V3kyVVhZgZyI-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="2ZOlnR_4qfxS9RuGWFGQ-1" target="01s96shbpum8sKjC3xUW-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="280" y="160" />
+              <mxPoint x="280" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2ZOlnR_4qfxS9RuGWFGQ-1" value="Автори композицій" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="290" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I3lpoa23V3kyVVhZgZyI-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="I3lpoa23V3kyVVhZgZyI-1" target="01s96shbpum8sKjC3xUW-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="340" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="350" y="305" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I3lpoa23V3kyVVhZgZyI-1" value="Правовласники" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="290" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pJRNvfBWC8_4zJC6LdIB-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="pJRNvfBWC8_4zJC6LdIB-1" target="erVF1nvhVaTUWEEvpSth-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="20" y="490" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="70" y="490" />
+              <mxPoint x="70" y="125" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pJRNvfBWC8_4zJC6LdIB-1" value="Категорії" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="100" y="460" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w5mHt0oscdKAiRaTlQwK-1" value="Subscription (pay per month)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="460" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lbYQGR1M-cYhlijBDc2p-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.567;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="GNVCMcYClQ-H1PYOGqHp-1" target="w5mHt0oscdKAiRaTlQwK-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="650" y="120" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="650" y="200" />
+              <mxPoint x="650" y="160" />
+              <mxPoint x="600" y="160" />
+              <mxPoint x="600" y="90" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lbYQGR1M-cYhlijBDc2p-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="GNVCMcYClQ-H1PYOGqHp-1" target="pJRNvfBWC8_4zJC6LdIB-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="340" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="640" y="490" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dpuDsbl8vUhTv-GnbUXD-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="GNVCMcYClQ-H1PYOGqHp-1" target="dpuDsbl8vUhTv-GnbUXD-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="780" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eW_xjzEdSZA0F-UN1gLX-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GNVCMcYClQ-H1PYOGqHp-1" target="eW_xjzEdSZA0F-UN1gLX-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="780" y="230" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="720" y="230" />
+              <mxPoint x="720" y="231" />
+              <mxPoint x="725" y="231" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GNVCMcYClQ-H1PYOGqHp-1" value="Music University" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="580" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vpOAnVRPoduWVuTOfM9m-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="i-eKrd2M0huu8tc0tFBM-1" target="vpOAnVRPoduWVuTOfM9m-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vpOAnVRPoduWVuTOfM9m-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="i-eKrd2M0huu8tc0tFBM-1" target="w5mHt0oscdKAiRaTlQwK-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="-20" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i-eKrd2M0huu8tc0tFBM-1" value="Користувач" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="290" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7TcajTnRXip1_J-ywEx_-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="vpOAnVRPoduWVuTOfM9m-1" target="erVF1nvhVaTUWEEvpSth-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="527.5" y="430" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="528" y="220" />
+              <mxPoint x="450" y="220" />
+              <mxPoint x="450" y="125" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vpOAnVRPoduWVuTOfM9m-1" value="Playlist" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="465" y="290" width="125" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dpuDsbl8vUhTv-GnbUXD-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="460" y="520" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="dpuDsbl8vUhTv-GnbUXD-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="dpuDsbl8vUhTv-GnbUXD-2" target="erVF1nvhVaTUWEEvpSth-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="550" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="90" y="550" />
+              <mxPoint x="90" y="190" />
+              <mxPoint x="110" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dpuDsbl8vUhTv-GnbUXD-2" value="Сharts" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="470" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dpuDsbl8vUhTv-GnbUXD-3" value="Органічні" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="470" y="590" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dpuDsbl8vUhTv-GnbUXD-4" value="Реклама" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="540" y="590" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YXD7_7AGLXMd1JVKioQb-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="GNVCMcYClQ-H1PYOGqHp-1" target="dpuDsbl8vUhTv-GnbUXD-4" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="440" as="sourcePoint" />
+            <mxPoint x="680" y="620" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="680" y="620" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YXD7_7AGLXMd1JVKioQb-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="I3lpoa23V3kyVVhZgZyI-1" target="dpuDsbl8vUhTv-GnbUXD-4" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="410" as="sourcePoint" />
+            <mxPoint x="400" y="360" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="370" y="650" />
+              <mxPoint x="460" y="710" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YXD7_7AGLXMd1JVKioQb-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="2ZOlnR_4qfxS9RuGWFGQ-1" target="dpuDsbl8vUhTv-GnbUXD-4" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="430" as="sourcePoint" />
+            <mxPoint x="480" y="380" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="430" y="300" />
+              <mxPoint x="420" y="440" />
+              <mxPoint x="340" y="720" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5lwPeF5wV9-zoAg-r4EO-1" value="&lt;b&gt;Система пошуку&lt;br&gt;&lt;/b&gt;- пошук через текстове поле&lt;br&gt;- пошук за допомогою тегів&lt;br&gt;- прослухати подібне&lt;br&gt;- сортуавння (за датою)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="140" y="585" width="180" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="oQo6Uzj4W6k0-Uwrjla0-1" value="індексації" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
+          <mxGeometry y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lDeTceCIPZP9cKBKMF7s-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="GNVCMcYClQ-H1PYOGqHp-1" target="5lwPeF5wV9-zoAg-r4EO-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="700" y="370" as="sourcePoint" />
+            <mxPoint x="750" y="320" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="620" y="780" />
+              <mxPoint x="220" y="780" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lDeTceCIPZP9cKBKMF7s-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="oQo6Uzj4W6k0-Uwrjla0-1" target="erVF1nvhVaTUWEEvpSth-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="50" y="600" as="sourcePoint" />
+            <mxPoint x="100" y="80" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="30" y="93" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lDeTceCIPZP9cKBKMF7s-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="oQo6Uzj4W6k0-Uwrjla0-1" target="5lwPeF5wV9-zoAg-r4EO-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="750" as="sourcePoint" />
+            <mxPoint x="90" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eW_xjzEdSZA0F-UN1gLX-1" value="Система рекомендацій&lt;br&gt;- історія пошуків користувача&lt;br&gt;- рекомендації за жанром та автором&lt;br&gt;- рекомендації за тим, зо слухають інші користувачі" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="660" width="190" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="eW_xjzEdSZA0F-UN1gLX-4" value="оновлення рекомендацій" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
+          <mxGeometry x="750" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Ftdv5pydTZ5PNsjeIRXC" name="Страница — 3">
+    <mxGraphModel dx="1290" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="l64W-x8ID_hFoOEOOQJi-1" value="&lt;b&gt;Композиція&lt;/b&gt; (музикальний твір)&lt;br&gt;&lt;br&gt;- текст&lt;br&gt;-жанр&lt;br&gt;-&amp;nbsp; мелодія (ідентифікація комопзиції)&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="510" y="471" width="150" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="y5h08UiY7lEoR94H_YYo-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="SHUrO9AYFDUkmfzIdWGI-1" target="l64W-x8ID_hFoOEOOQJi-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SHUrO9AYFDUkmfzIdWGI-1" value="&lt;b&gt;Альбом&lt;/b&gt;&lt;br&gt;- назва&lt;br&gt;- автор&lt;br&gt;- дата випуску (публікації)&lt;br&gt;складається з композицій" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="500" y="179" width="170" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="AB-eHfNf5XQcIixMM6fg-1" value="Автори композицій" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="380" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AB-eHfNf5XQcIixMM6fg-2" value="Правовласники" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="525" y="57" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E-LKSTCUs9hsaZ7sC003-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="270" y="169" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="AB-eHfNf5XQcIixMM6fg-3" value="Користувач" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="977.5" y="237" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2R5lfductIhh8OywVYNN-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="E-LKSTCUs9hsaZ7sC003-2" target="l64W-x8ID_hFoOEOOQJi-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E-LKSTCUs9hsaZ7sC003-2" value="Сharts" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="285" y="177" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E-LKSTCUs9hsaZ7sC003-3" value="Органічні" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="245" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wD2A9fnlTTxBYPY5nLkO-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="xkJRCZqiI2CrmEJ9J1VP-1" target="l64W-x8ID_hFoOEOOQJi-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="460" />
+              <mxPoint x="400" y="530" />
+              <mxPoint x="410" y="530" />
+              <mxPoint x="410" y="536" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E-LKSTCUs9hsaZ7sC003-4" value="Реклама" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="350" y="245" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xkJRCZqiI2CrmEJ9J1VP-1" value="Категорії" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="180" y="430" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pOD2P2XDRCvhOh7bIU79-1" value="Subscription (pay per month)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="977.5" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lwAXKDcQwfyoQt4_ubdX-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="pOD2P2XDRCvhOh7bIU79-2" target="l64W-x8ID_hFoOEOOQJi-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="680" y="374" />
+              <mxPoint x="680" y="504" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pOD2P2XDRCvhOh7bIU79-2" value="Playlist" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="975" y="341" width="125" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r9EM2O1E8z3UwDe0WZhg-1" value="&lt;b&gt;Система пошуку&lt;br&gt;&lt;/b&gt;- пошук через текстове поле&lt;br&gt;- пошук за допомогою тегів&lt;br&gt;- прослухати подібне&lt;br&gt;- сортуавння (за датою)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="730" y="400" width="180" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="r9EM2O1E8z3UwDe0WZhg-2" value="індексації" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
+          <mxGeometry x="740" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oun7Ixl3KFd-N3tn2hyG-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="RM1OlZ5HZz-JMA8e_hTG-1" target="xkJRCZqiI2CrmEJ9J1VP-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="690" y="40" />
+              <mxPoint x="690" y="320" />
+              <mxPoint x="480" y="320" />
+              <mxPoint x="480" y="400" />
+              <mxPoint x="300" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qYv-o4-zyiDQo4sDeVKE-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="RM1OlZ5HZz-JMA8e_hTG-1" target="qYv-o4-zyiDQo4sDeVKE-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="730" y="40" />
+              <mxPoint x="730" y="210" />
+              <mxPoint x="810" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RM1OlZ5HZz-JMA8e_hTG-1" value="Music University" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="345" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NJxv0Yq4gw6PbTxZx0q2-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="RM1OlZ5HZz-JMA8e_hTG-1" target="pOD2P2XDRCvhOh7bIU79-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="710" y="40" />
+              <mxPoint x="710" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_vtzwkPR3S8WmUyADOKF-1" value="Система рекомендацій&lt;br&gt;- історія пошуків користувача&lt;br&gt;- рекомендації за жанром та автором&lt;br&gt;- рекомендації за тим, зо слухають інші користувачі" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="920" y="520" width="190" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="8YGtBlySXM6XD4vVG3yC-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="r9EM2O1E8z3UwDe0WZhg-2" target="l64W-x8ID_hFoOEOOQJi-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2R5lfductIhh8OywVYNN-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" target="E-LKSTCUs9hsaZ7sC003-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="525" y="80" />
+              <mxPoint x="220" y="80" />
+              <mxPoint x="220" y="370" />
+              <mxPoint x="380" y="370" />
+            </Array>
+            <mxPoint x="525" y="86" as="sourcePoint" />
+            <mxPoint x="380" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qYv-o4-zyiDQo4sDeVKE-1" value="оновлення рекомендацій" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
+          <mxGeometry x="750" y="281" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZE3vTWaHYStTmkkvPhCO-3" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="AB-eHfNf5XQcIixMM6fg-2" target="SHUrO9AYFDUkmfzIdWGI-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="630" y="220" as="sourcePoint" />
+            <mxPoint x="680" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZE3vTWaHYStTmkkvPhCO-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.355;entryY=-0.006;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="AB-eHfNf5XQcIixMM6fg-1" target="SHUrO9AYFDUkmfzIdWGI-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="415" y="201" as="sourcePoint" />
+            <mxPoint x="560" y="150" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="560" y="130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZE3vTWaHYStTmkkvPhCO-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" parent="1" source="AB-eHfNf5XQcIixMM6fg-1" target="E-LKSTCUs9hsaZ7sC003-4" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="310" as="sourcePoint" />
+            <mxPoint x="690" y="260" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="240" y="130" />
+              <mxPoint x="240" y="360" />
+              <mxPoint x="365" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZE3vTWaHYStTmkkvPhCO-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" parent="1" source="RM1OlZ5HZz-JMA8e_hTG-1" target="E-LKSTCUs9hsaZ7sC003-4" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="210" as="sourcePoint" />
+            <mxPoint x="690" y="160" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="300" y="40" />
+              <mxPoint x="200" y="40" />
+              <mxPoint x="200" y="200" />
+              <mxPoint x="200" y="380" />
+              <mxPoint x="290" y="380" />
+              <mxPoint x="395" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZE3vTWaHYStTmkkvPhCO-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.657;exitY=-0.007;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitPerimeter=0;" parent="1" source="r9EM2O1E8z3UwDe0WZhg-2" target="r9EM2O1E8z3UwDe0WZhg-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="410" as="sourcePoint" />
+            <mxPoint x="690" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZE3vTWaHYStTmkkvPhCO-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="AB-eHfNf5XQcIixMM6fg-3" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="320" as="sourcePoint" />
+            <mxPoint x="1038" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZE3vTWaHYStTmkkvPhCO-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="AB-eHfNf5XQcIixMM6fg-3" target="pOD2P2XDRCvhOh7bIU79-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1050" y="375" as="sourcePoint" />
+            <mxPoint x="1050" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZE3vTWaHYStTmkkvPhCO-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="RM1OlZ5HZz-JMA8e_hTG-1" target="_vtzwkPR3S8WmUyADOKF-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="650" y="290" as="sourcePoint" />
+            <mxPoint x="700" y="240" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="800" y="40" />
+              <mxPoint x="1120" y="40" />
+              <mxPoint x="1140" y="40" />
+              <mxPoint x="1140" y="310" />
+              <mxPoint x="1140" y="575" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
